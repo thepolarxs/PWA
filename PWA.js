@@ -1,7 +1,7 @@
 
 {
-	"version": "versão dels",
-	"download": "link do seu bagulho ( sempre atualiza) ",
+	"version": "20.0.1",
+	"download": "https://youtube.com/c/PolarModz%E3%82%81",
 	"update": [
 		{
 			"languaje": "en",
