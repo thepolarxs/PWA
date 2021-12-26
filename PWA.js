@@ -5,7 +5,7 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": " raw do changelog en"
+			"changelog": "https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-en.html"
 		},
 		{
 			"languaje": "es",
