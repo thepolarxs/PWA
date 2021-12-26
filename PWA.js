@@ -9,7 +9,7 @@
 		},
 		{
 			"languaje": "es",
-			"changelog": "raw do changelog es"
+			"changelog": "https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-es.html"
 		},
 		{
 			"languaje": "pt",
