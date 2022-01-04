@@ -1,6 +1,6 @@
 
 {
-	"version": "5.0",
+	"version": "1.0",
 	"download": "https://youtube.com/c/PolarModz%E3%82%81",
 	"update": [
 		{
