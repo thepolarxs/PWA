@@ -1,7 +1,7 @@
 
 {
-	"version": "4.0",
-	"download": "https://youtube.com/c/PolarModz%E3%82%81",
+	"version": "1.0",
+	"download": "https://t.me/pwaupdates",
 	"update": [
 		{
 			"languaje": "en",
