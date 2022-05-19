@@ -1,13 +1,16 @@
 {
  "version":"6.0",
- "title":"Atualizar: PWA V6",
- "description":"🔸[Added] Novo estilo de Privacidade
- 🔸[Added] Apagar Emoji
- 🔸[Added] Pesquisar na Internet
- 🔸[Added] Cores nos Status
+ "title":"Atualizar: PWA MINI V3",
+ "description":"
+ 🔸[ATT] Versão 2.22.10.73
+ 🔸[Added] Separar grupos de chats
+ 🔸[Added] Sem compressão de vídeo
+ 🔸[Added] Clean Cachê e Backup
+ 🔸[Added] Base mais fluída
  🔸[Added] Recursos ocultos Ativados
  🔨[Fixed] Bugs e Reports arrumados
  🔨[Fixed] Recursos recomendados adicionados
+ ----------------------------------------------
 🛠️[Bug] Encontrou algum bug? Reporte.",
  "download":"https://www.youtube.com/watch?v=iHAKUkmZKTY&t=2s"
 }
